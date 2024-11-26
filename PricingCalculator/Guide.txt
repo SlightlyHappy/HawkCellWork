@@ -1,0 +1,9 @@
+So the power automate can update local files for everyone 
+    the next step is to organize the data from the masterfile and have
+    fixed columns that the python script can read. 
+
+Step1 - have the excel reorganized
+Step2 - import data 
+Step3 - code the GUI
+
+
