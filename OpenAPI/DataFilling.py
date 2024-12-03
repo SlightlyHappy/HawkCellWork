@@ -14,8 +14,8 @@ from bs4 import BeautifulSoup
 import time
 
 # Replace with your API keys
-openai.api_key = "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"  # OpenAI API Key
-BING_API_KEY = "464f51adb78a47c2be5eaaf9a2b503f0"      # Bing Web Search API Key
+openai.api_key = "sk-proj-"  # OpenAI API Key
+BING_API_KEY = ""      # Bing Web Search API Key
 
 # Initialize OpenAI client
 client = OpenAI(api_key=openai.api_key) 
